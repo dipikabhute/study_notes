@@ -1,5 +1,5 @@
 ---
-title: 🧠 DevOps Knowledge Hub
+title: 🧠 Study Notes
 nav_order: 1
 ---
 

@@ -1,3 +1,12 @@
+---
+title: 1. Github
+nav_order: 3
+has_children: true
+---
+
+
+
+
 To access this **public GitHub website/repository** on your **personal laptop** and **edit it using VS Code or Git**, follow these steps carefully.
 (I’m explaining in **simple English**, suitable for a **BCA student** 👍)
 
