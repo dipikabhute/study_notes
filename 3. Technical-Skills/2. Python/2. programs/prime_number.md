@@ -7,9 +7,6 @@ nav_order: 1
 has_children: true
 ---
 
-Here are **sample Python programs** you can upload in your GitHub folder (`programs/`) as **`prime_number.py`** and **`palindrome.py`**.
-
----
 
 # 1️⃣ `prime_number.py` (Prime Number Program)
 
@@ -38,4 +35,3 @@ Enter a number: 7
 7 is a prime number
 ```
 
----
