@@ -1,0 +1,8 @@
+---
+title: 📌 Prime_Number
+parent: • programs
+grand_parent: 2. Python
+grand_grand_parent: "3. Technical-Skills"
+nav_order: 1
+has_children: true
+---
