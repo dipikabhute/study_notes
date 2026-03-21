@@ -1,5 +1,5 @@
 ---
-title:  📌 Introduction to IOT
+title: 📌 Introduction to IOT
 parent: UNIT 1 
 grand_parent: • 3. IOT
 grand_grand_parent: "7. BCA FY"
