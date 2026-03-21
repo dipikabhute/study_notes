@@ -6,13 +6,11 @@ nav_order: 2
 has_children: true
 ---
 
+natraj Notes, 
 
 
-title: 📌 sub-topics
-parent: • Subject 1
-grand_parent: "1. BCA FY"
-nav_order: 1
-has_children: true
+
+https://natrajwadhai13.github.io/devops-playbook/4.%20Cloud%20Platforms/Azure/1.%20Azure%20Fundamentals/1.%20Cloud%20Concepts.html
 
 
 
