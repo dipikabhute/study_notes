@@ -1,8 +1,0 @@
----
-title: "1.cloud computing"
-parent: 7. BCA FY 
-nav_order: 1
-has_children: true
----
-
-
