@@ -7,7 +7,7 @@ nav_order: 1
 has_children: true
 ---
 =========================================
-Here are **detailed BCA Final Year notes on IoT (Internet of Things)** in a simple, exam-friendly format 👇
+
 
 ---
 
