@@ -1,6 +1,6 @@
 ---
 title: • Unit  1
-parent: • 1.IOT
+parent: • 1. IOT
 grand_parent: "7. BCA FY"
 nav_order: 1
 has_children: true
