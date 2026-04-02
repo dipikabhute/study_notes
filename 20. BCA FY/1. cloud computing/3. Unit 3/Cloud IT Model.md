@@ -1,0 +1,8 @@
+---
+title: 📌Cloud IT Model
+parent: • UNIT 3
+grand_parent: • 1. Cloud Computing
+grand_grand_parent: "7. BCA FY"
+nav_order: 1
+has_children: true
+---
